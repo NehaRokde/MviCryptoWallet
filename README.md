@@ -58,3 +58,8 @@ The launcher package is `com.example.mvicryptowallet`.
 ## Demo and security notes
 
 This repository is an educational UI and flow demonstration. Biometric verification always succeeds after a delay, transaction and balance values are hardcoded, and the “API” is implemented by OkHttp interceptors with a mock refresh endpoint. The token and encrypted preference handling demonstrate integration points; they do not make this mock app suitable for real accounts or production financial use. Replace the biometric simulation, mock backend, sample data, and demo token lifecycle with a real identity provider and backend before using the app with sensitive data.
+
+<img width="300" alt="Screenshot_20261102_105910" src="https://github.com/user-attachments/assets/7a47a3d0-20fe-4295-9cc0-934f6ec59eb2" />
+<img width="300" alt="Screenshot_20261102_105922" src="https://github.com/user-attachments/assets/df7b99c1-daf5-40dc-8157-1608b5af1cca" />
+
+
